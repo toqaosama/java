@@ -1,0 +1,21 @@
+
+
+
+
+.display {
+
+    display: none;
+    font-size: xx-large;
+    color: black;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    background-color: darkred;
+}
+
+.btn {
+    width: 200px;
+    height: 100px;
+    background-color: cornflowerblue;
+
+}
